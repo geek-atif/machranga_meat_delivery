@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158770737088",
+    "firebase_url": "https://machranga-46d8c.firebaseio.com",
+    "project_id": "machranga-46d8c",
+    "storage_bucket": "machranga-46d8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158770737088:android:aa1cbc5626eac0e991a225",
+        "android_client_info": {
+          "package_name": "com.machranga.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158770737088-cvik7v8dglbtbu33et4thgibjj9r7vbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_wfx78MvBEFQCNSY6Vwp8rg0T8u-NXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158770737088-cvik7v8dglbtbu33et4thgibjj9r7vbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
